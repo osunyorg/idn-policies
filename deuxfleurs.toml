@@ -13,28 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/posts/"
-to = "/resources/"
-
-[[redirects]]
-from = "/policies/themes/culture-and-education/"
-to = "/policies/themes/culture-education/"
-
-[[redirects]]
-from = "/policies/government-geopolitics/"
-to = "/policies/themes/governance-geopolitics/"
-
-[[redirects]]
-from = "/policies/science-technology/"
-to = "/policies/themes/science-technology/"
-
-[[redirects]]
-from = "/policies/themes/government-geopolitics/"
-to = "/policies/themes/governance-geopolitics/"
-
-[[redirects]]
-from = "/projects/"
-to = "/policies/"
-
