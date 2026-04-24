@@ -15,26 +15,26 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/posts/"
+from = "/posts/index.html"
 to = "/resources/"
 
 [[redirects]]
-from = "/policies/themes/culture-and-education/"
+from = "/policies/themes/culture-and-education/index.html"
 to = "/policies/themes/culture-education/"
 
 [[redirects]]
-from = "/policies/government-geopolitics/"
+from = "/policies/government-geopolitics/index.html"
 to = "/policies/themes/governance-geopolitics/"
 
 [[redirects]]
-from = "/policies/science-technology/"
+from = "/policies/science-technology/index.html"
 to = "/policies/themes/science-technology/"
 
 [[redirects]]
-from = "/policies/themes/government-geopolitics/"
+from = "/policies/themes/government-geopolitics/index.html"
 to = "/policies/themes/governance-geopolitics/"
 
 [[redirects]]
-from = "/projects/"
+from = "/projects/index.html"
 to = "/policies/"
 
